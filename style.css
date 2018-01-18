@@ -4,7 +4,9 @@
 .fixed {
   position: fixed;
 }
-
+.centro {
+  text-align: center;
+}
 .jumbotron {
   background-image: url("img/portada1.jpg");
   background-size: cover;
@@ -30,4 +32,7 @@
 
 .card-blog {
   width: 30rem;
+}
+.rrss {
+  width: 80px;
 }
