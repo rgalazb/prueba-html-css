@@ -24,3 +24,10 @@
 .card {
   width: 18rem;
 }
+.blog-title {
+  margin-top: 150px;
+}
+
+.card-blog {
+  width: 30rem;
+}
