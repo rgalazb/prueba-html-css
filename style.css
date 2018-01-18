@@ -1,9 +1,8 @@
 .navbar {
   background-color: ;
 }
-nav {
+.fixed {
   position: fixed;
-  top: 0;
 }
 
 .jumbotron {
