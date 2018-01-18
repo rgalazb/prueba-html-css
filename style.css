@@ -7,8 +7,16 @@ nav {
 }
 
 .jumbotron {
-  background-image: url("img/portada.jpg");
+  background-image: url("img/portada1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 84vh;
+}
+.hero-boton {
+  position: relative;
+  top: 40vh;
+}
+.hero-text {
+  position: relative;
+  top: 39vh;
 }
