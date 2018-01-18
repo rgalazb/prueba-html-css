@@ -1,6 +1,15 @@
 .navbar {
-  background-color: #adca55;
+  background-color: ;
 }
 nav {
   position: fixed;
+  top: 0;
+}
+
+.jumbotron {
+  background-image: url("img/portada1111.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 84vh;
+
 }
